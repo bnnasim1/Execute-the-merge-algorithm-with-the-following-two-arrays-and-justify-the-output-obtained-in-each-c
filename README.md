@@ -1,4 +1,4 @@
-i
+
 package javaapplication53;
 import java.util.Arrays;
 import java.util.Scanner;
