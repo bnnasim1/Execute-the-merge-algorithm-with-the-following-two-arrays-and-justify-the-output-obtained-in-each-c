@@ -1,4 +1,4 @@
-# Execute-the-merge-algorithm-with-the-following-two-arrays-and-justify-the-output-obtained-in-each-c
+i
 package javaapplication53;
 import java.util.Arrays;
 import java.util.Scanner;
